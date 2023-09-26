@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Consultorio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Consultorio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
